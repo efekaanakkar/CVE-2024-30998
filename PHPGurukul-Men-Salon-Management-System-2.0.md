@@ -5,7 +5,7 @@
 # Software Link
 + https://phpgurukul.com/?sdm_process_download=1&download_id=14066
 # Overview
-+ PHPGurukul Men Salon Management System V2.0 is susceptible to a A notable security weakness stems from inadequate safeguarding of the 'email' parameter within the index.php file. This vulnerability has the potential to be exploited for injecting harmful SQL queries, resulting in unauthorized access and extraction of confidential data from the database.
++ PHPGurukul Men Salon Management System V2.0 is susceptible to a A notable security weakness stems from inadequate safeguarding of the 'username' parameter within the index.php file. This vulnerability has the potential to be exploited for injecting harmful SQL queries, resulting in unauthorized access and extraction of confidential data from the database.
 # Vulnerability Details
 + CVE ID: CVE-2024-30998
 + Affected Version: PHPGurukul Men Salon Management System 2.0 
